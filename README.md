@@ -5,7 +5,7 @@ WAD PRACTICALS
 # TE-IT-WADL
 
 
-## Web Application Development Assignments or practicals of SPPU Third Year IT Syllabus (2019 pattern)
+## Web Application Development Assignments or Practicals of SPPU Third Year IT Syllabus (2019 pattern)
 
 
 
